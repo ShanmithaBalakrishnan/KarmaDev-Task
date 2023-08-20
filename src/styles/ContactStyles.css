@@ -1,0 +1,29 @@
+.table {
+  border-radius: 30px;
+}
+
+.table #TableCell:hover {
+  background-color: rgb(221, 221, 221);
+}
+
+@media screen and (max-width: 600px) {
+  .contact{
+    justify-content: center;
+    align-items: center;
+  }
+  .container {
+    align-items: center;
+    margin-left: 0;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  .table {
+    border-radius: 30px;
+  }
+  .table #TableCell:hover {
+    background-color: rgb(221, 221, 221);
+  }
+}

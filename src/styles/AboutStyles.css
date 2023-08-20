@@ -1,0 +1,16 @@
+*{
+    padding: 2px;
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.container{
+    font-family: sans-serif;
+    border: solid 2px black;
+    border-radius: 20px;
+    padding: 20px;
+    width: 100%;
+    font-style: italic;
+    align-items: center;
+    border-style: dashed;
+}
