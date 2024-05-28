@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ShanmithaBalakrishnan/KarmaDev-Task/static/css/main.22732a58.css",
+    "main.js": "/ShanmithaBalakrishnan/KarmaDev-Task/static/js/main.a0fb64fe.js",
+    "static/js/453.3fb58ffa.chunk.js": "/ShanmithaBalakrishnan/KarmaDev-Task/static/js/453.3fb58ffa.chunk.js",
+    "static/media/moistruiser.jpg": "/ShanmithaBalakrishnan/KarmaDev-Task/static/media/moistruiser.6e40844a78b3f972c4b7.jpg",
+    "static/media/Serum.jpg": "/ShanmithaBalakrishnan/KarmaDev-Task/static/media/Serum.983cfe76dd197a19decb.jpg",
+    "static/media/Sunscreen.jpg": "/ShanmithaBalakrishnan/KarmaDev-Task/static/media/Sunscreen.497dbe0111e41af8b726.jpg",
+    "static/media/banner.jpeg": "/ShanmithaBalakrishnan/KarmaDev-Task/static/media/banner.bed426d3cc043dad440a.jpeg",
+    "static/media/eyeshadow.jpg": "/ShanmithaBalakrishnan/KarmaDev-Task/static/media/eyeshadow.b75f612f06b6d2da8739.jpg",
+    "static/media/eyeliner.jpg": "/ShanmithaBalakrishnan/KarmaDev-Task/static/media/eyeliner.37c789001dfc18d78cd2.jpg",
+    "static/media/Lipstick.jpg": "/ShanmithaBalakrishnan/KarmaDev-Task/static/media/Lipstick.86be3494bcb8994555cb.jpg",
+    "index.html": "/ShanmithaBalakrishnan/KarmaDev-Task/index.html",
+    "main.22732a58.css.map": "/ShanmithaBalakrishnan/KarmaDev-Task/static/css/main.22732a58.css.map",
+    "main.a0fb64fe.js.map": "/ShanmithaBalakrishnan/KarmaDev-Task/static/js/main.a0fb64fe.js.map",
+    "453.3fb58ffa.chunk.js.map": "/ShanmithaBalakrishnan/KarmaDev-Task/static/js/453.3fb58ffa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22732a58.css",
+    "static/js/main.a0fb64fe.js"
+  ]
+}
